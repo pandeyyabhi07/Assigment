@@ -34,7 +34,7 @@ const App = () => {
   };
 
   return (
-    <div className='p-10'>
+    <div className='p-10 bg-emerald-200'>
 
      
       <h2 className='text-3xl mb-5'>Italian Dishes</h2>

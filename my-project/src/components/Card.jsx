@@ -17,7 +17,7 @@ const Card = ({ img, name, content }) => {
 
   return (
     <div>
-      <div className='bg-white shadow-xl p-4 rounded-xl hover:scale-105 hover:shadow-3xl transition-transform duration-300'>
+      <div className='bg-white shadow-xl flex  p-4 rounded-xl hover:scale-105 hover:shadow-3xl transition-transform duration-300'>
         <div className='flex items-center gap-5'>
           <div className='flex flex-col gap-5'>
             <h2 className='text-4xl'>{name}</h2>
