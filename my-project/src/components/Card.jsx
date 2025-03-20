@@ -39,3 +39,4 @@ const Card = ({ img, name, content }) => {
 };
 
 export default Card;
+// done

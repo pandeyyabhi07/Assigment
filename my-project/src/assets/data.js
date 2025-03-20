@@ -2,12 +2,12 @@ const dishes = [
     { 
       img: "https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg?cs=srgb&dl=pexels-ella-olsson-572949-1640773.jpg&fm=jpg", 
       name: "Veggie Delight Pizza", 
-      price: 459 
+      price: 234
     },
     { 
       img: "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?cs=srgb&dl=pexels-ella-olsson-572949-1640772.jpg&fm=jpg", 
       name: "Spinach Alfredo Pasta", 
-      price: 389 
+      price: 459 
     },
     { 
       img: "https://c4.wallpaperflare.com/wallpaper/977/846/535/food-rice-chinese-food-soup-wallpaper-preview.jpg", 
